@@ -1,0 +1,7 @@
+C:\Users\gunav\Player and team\Player and team\bin\Debug\Player and team.exe.config
+C:\Users\gunav\Player and team\Player and team\bin\Debug\Player and team.exe
+C:\Users\gunav\Player and team\Player and team\bin\Debug\Player and team.pdb
+C:\Users\gunav\Player and team\Player and team\obj\Debug\Player and team.csproj.AssemblyReference.cache
+C:\Users\gunav\Player and team\Player and team\obj\Debug\Player and team.csproj.CoreCompileInputs.cache
+C:\Users\gunav\Player and team\Player and team\obj\Debug\Player and team.exe
+C:\Users\gunav\Player and team\Player and team\obj\Debug\Player and team.pdb
